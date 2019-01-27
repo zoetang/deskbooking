@@ -1,0 +1,5 @@
+source 'https://gems.ruby-china.com/'
+
+
+gem 'cucumber'
+gem 'cucumber-api'
